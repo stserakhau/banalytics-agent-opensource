@@ -1,0 +1,50 @@
+{
+  "en": {
+    "com.banalytics.box.module.telegram.TelegramBotThing": "Telegram bot integration",
+    "com.banalytics.box.module.telegram.TelegramBotThing.title": "Telegram bot integration ({0})",
+    "checkMessagesTimeoutMillis": "Check messages timout (ms)",
+    "botToken": "Bot token",
+    "pinCode": "Authorization code",
+
+    "com.banalytics.box.module.usecase.TelegramNewContentNotificationCase": "Telegram: Content notification",
+    "com.banalytics.box.module.usecase.TelegramNewContentNotificationCase.description": "Configure content notification via Telegram",
+
+    "fileCreatedEventSources": "Listen content sources",
+    "configurationType": "Configuration type",
+    "telegramBotUUID": "Telegram bot",
+    "CREATE_NEW_TELEGRAM_BOT": "Create new Telegram bot",
+    "USE_EXISTED_TELEGRAM_BOT": "Use existing telegram bot"
+  },
+  "pl" : {
+    "com.banalytics.box.module.telegram.TelegramBotThing": "Integracja bota telegramu",
+    "com.banalytics.box.module.telegram.TelegramBotThing.title": "Integracja bota telegramu ({0})",
+    "checkMessagesTimeoutMillis": "Check messages timout (ms)",
+    "botToken": "Token bota",
+    "pinCode": "Kod autoryzacji",
+
+    "com.banalytics.box.module.usecase.TelegramNewContentNotificationCase": "Telegram: Content notification",
+    "com.banalytics.box.module.usecase.TelegramNewContentNotificationCase.description": "Configure content notification via Telegram",
+
+    "fileCreatedEventSources": "Listen content sources",
+    "configurationType": "Configuration type",
+    "telegramBotUUID": "Telegram bot",
+    "CREATE_NEW_TELEGRAM_BOT": "Create new Telegram bot",
+    "USE_EXISTED_TELEGRAM_BOT": "Use existing telegram bot"
+  },
+  "ru" : {
+    "com.banalytics.box.module.telegram.TelegramBotThing": "Интеграция с ботом Telegram",
+    "com.banalytics.box.module.telegram.TelegramBotThing.title": "Интеграция с ботом Telegram ({0})",
+    "checkMessagesTimeoutMillis": "Check messages timout (ms)",
+    "botToken": "Токен бота",
+    "pinCode": "Код авторизации",
+
+    "com.banalytics.box.module.usecase.TelegramNewContentNotificationCase": "Telegram: Content notification",
+    "com.banalytics.box.module.usecase.TelegramNewContentNotificationCase.description": "Configure content notification via Telegram",
+
+    "fileCreatedEventSources": "Listen content sources",
+    "configurationType": "Configuration type",
+    "telegramBotUUID": "Telegram bot",
+    "CREATE_NEW_TELEGRAM_BOT": "Create new Telegram bot",
+    "USE_EXISTED_TELEGRAM_BOT": "Use existing telegram bot"
+  }
+}

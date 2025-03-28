@@ -1,0 +1,13 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <!-- Сопоставление внешнего URI с локальным файлом -->
+    <uri name="http://www.w3.org/2006/03/addressing/ws-addr.xsd"
+         uri="classpath:/schemas/ws-addr.xsd"/>
+
+    <!-- Сопоставление всех схем из одного пространства имен с папкой -->
+    <rewriteSystem systemIdStartString="http://www.onvif.org/ver10/device/wsdl/"
+                   rewritePrefix="schemas/onvif/"/>
+
+    <!-- Сопоставление внешнего SYSTEM идентификатора с локальным файлом -->
+    <system systemId="http://www.onvif.org/ver10/device/wsdl/device.xsd"
+            uri="schemas/device.xsd"/>
+</catalog>

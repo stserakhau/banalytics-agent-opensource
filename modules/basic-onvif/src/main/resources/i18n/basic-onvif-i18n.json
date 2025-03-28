@@ -1,0 +1,141 @@
+{
+  "en": {
+    "group.onvif-actions": "Onvif actions",
+
+    "com.banalytics.box.module.onvif.thing.OnvifThing": "Onvif camera",
+    "com.banalytics.box.module.onvif.thing.OnvifThing.title": "Onvif camera ({0})",
+    "streamType": "Stream type",
+    "transportProtocol": "Transport protocol",
+    "overrideRtspPort": "Override RTSP port",
+
+    "com.banalytics.box.module.onvif.task.ffmpeg.OnvifGrabberTask": "Media capture",
+    "com.banalytics.box.module.onvif.task.ffmpeg.OnvifGrabberTask.title": "Capture of {0}",
+    "deviceUuid": "Device",
+    "deviceProfile": "Media profile",
+
+    "com.banalytics.box.module.onvif.task.PTZRotateAction": "PTZ",
+    "com.banalytics.box.module.onvif.task.PTZRotateAction.title": "PTZ ({0})",
+    "speedX": "Speed X",
+    "speedY": "Speed Y",
+    "speedZ": "Speed Z",
+    "stopTimeout": "Stop timeout",
+
+    "com.banalytics.box.module.onvif.task.PTZContinousAxisAction": "PTZ Axis",
+    "com.banalytics.box.module.onvif.task.PTZContinousAxisAction.title": "PTZ Axis ({0})",
+    "gamepadId": "Gamepad",
+    "stopThreshold": "Stop threshold",
+    "axisXIndex": "X axis index",
+    "axisYIndex": "Y axis index",
+    "axisZoomIndex": "Zoom axis index",
+    "reverseX": "Reverse X",
+    "reverseY": "Reverse Y",
+    "reverseZoom": "Reverse zoom",
+
+
+    "com.banalytics.box.module.onvif.task.GoToPresetAction": "Go to viewpoint",
+    "com.banalytics.box.module.onvif.task.GoToPresetAction.title": "Go to viewpoint: {0}",
+    "presetToken": "Preset",
+    "stunTimeoutSec": "Stun timeout (sec)",
+    "returnActionEnabled": "Return enabled",
+    "returnDelaySec": "Return delay (sec)",
+    "returnActionUuid": "Return action",
+
+    "com.banalytics.box.module.onvif.task.OnvifRebootAction": "Reboot Onvif device",
+    "com.banalytics.box.module.onvif.task.OnvifRebootAction.title": "Reboot Onvif device: {0}",
+
+    "com.banalytics.box.module.usecase.OnvifMonitoringCase": "ONVIF cam surveillance",
+    "com.banalytics.box.module.usecase.OnvifMonitoringCase.description": "Configure video surveillance via ONVIF Camera"
+  },
+  "pl" : {
+    "group.onvif-actions": "Akcje Onvif",
+
+    "com.banalytics.box.module.onvif.thing.OnvifThing": "Kamera Onvif",
+    "com.banalytics.box.module.onvif.thing.OnvifThing.title": "Kamera Onvif ({0})",
+    "streamType": "Typ strumienia",
+    "transportProtocol": "Protokół transportowy",
+    "overrideRtspPort": "Zastąp port RTSP",
+
+    "com.banalytics.box.module.onvif.task.ffmpeg.OnvifGrabberTask": "Przechwytywanie Onvif",
+    "com.banalytics.box.module.onvif.task.ffmpeg.OnvifGrabberTask.title": "Przechwytywanie {0}",
+    "deviceUuid": "Urządzenie",
+    "deviceProfile": "Profil mediów",
+
+    "com.banalytics.box.module.onvif.task.PTZRotateAction": "PTZ",
+    "com.banalytics.box.module.onvif.task.PTZRotateAction.title": "PTZ ({0})",
+    "speedX": "Speed X",
+    "speedY": "Speed Y",
+    "speedZ": "Speed Z",
+    "stopTimeout": "Stop timeout",
+
+    "com.banalytics.box.module.onvif.task.PTZContinousAxisAction": "Oś PTZ",
+    "com.banalytics.box.module.onvif.task.PTZContinousAxisAction.title": "Oś PTZ ({0})",
+    "gamepadId": "Gamepad",
+    "stopThreshold": "Próg zatrzymania",
+    "axisXIndex": "Indeks osi X",
+    "axisYIndex": "Indeks osi Y",
+    "axisZoomIndex": "Indeks osi powiększenia",
+    "reverseX": "Reverse X",
+    "reverseY": "Odwróć Y",
+    "reverseZoom": "Odwrócony zoom",
+
+    "com.banalytics.box.module.onvif.task.GoToPresetAction": "Przejdź do punktu widokowego",
+    "com.banalytics.box.module.onvif.task.GoToPresetAction.title": "Przejdź do punktu widokowego: {0}",
+    "presetToken": "Ustawienie wstępne",
+    "stunTimeoutSec": "Limit czasu ogłuszenia (s)",
+    "returnActionEnabled": "Zwrot włączony",
+    "returnDelaySec": "Opóźnienie powrotu (s)",
+    "returnActionUuid": "Zwrot akcji",
+
+    "com.banalytics.box.module.onvif.task.OnvifRebootAction": "Uruchom ponownie urządzenie Onvif",
+    "com.banalytics.box.module.onvif.task.OnvifRebootAction.title": "Uruchom ponownie urządzenie Onvif: {0}",
+
+    "com.banalytics.box.module.usecase.OnvifMonitoringCase": "Nadzór za pomocą kamery ONVIF",
+    "com.banalytics.box.module.usecase.OnvifMonitoringCase.description": "Configure video surveillance via ONVIF Camera"
+  },
+  "ru" : {
+    "group.onvif-actions": "Действия Onvif",
+
+    "com.banalytics.box.module.onvif.thing.OnvifThing": "Onvif камера",
+    "com.banalytics.box.module.onvif.thing.OnvifThing.title": "Onvif-камера ({0})",
+    "streamType": "Тип потока",
+    "transportProtocol": "Транспортный протокол",
+    "overrideRtspPort": "Переопределить порт RTSP",
+
+    "com.banalytics.box.module.onvif.task.ffmpeg.OnvifGrabberTask": "Захват медиапотока Onvif",
+    "com.banalytics.box.module.onvif.task.ffmpeg.OnvifGrabberTask.title": "Захват {0}",
+    "deviceUuid": "Устройство",
+    "deviceProfile": "Профиль",
+
+    "com.banalytics.box.module.onvif.task.PTZRotateAction": "PTZ",
+    "com.banalytics.box.module.onvif.task.PTZRotateAction.title": "PTZ ({0})",
+    "speedX": "Speed X",
+    "speedY": "Speed Y",
+    "speedZ": "Speed Z",
+    "stopTimeout": "Stop timeout",
+
+    "com.banalytics.box.module.onvif.task.PTZContinousAxisAction": "Ось PTZ",
+    "com.banalytics.box.module.onvif.task.PTZContinousAxisAction.title": "Ось PTZ ({0})",
+    "gamepadId": "Геймпад",
+    "stopThreshold": "Порог остановки",
+    "axisXIndex": "Индекс оси X",
+    "axisYIndex": "Индекс оси Y",
+    "axisZoomIndex": "Индекс оси Zoom",
+    "reverseX": "Реверс X",
+    "reverseY": "Реверс Y",
+    "reverseZoom": "Реверс масштабирования",
+
+    "com.banalytics.box.module.onvif.task.GoToPresetAction": "Перейти к точке обзора",
+    "com.banalytics.box.module.onvif.task.GoToPresetAction.title": "Перейти к точке обзора: {0}",
+    "presetToken": "Предустановка",
+    "stunTimeoutSec": "Тайм-аут оглушения (сек)",
+    "returnActionEnabled": "Возврат включен",
+    "returnDelaySec": "Задержка возврата (сек)",
+    "returnActionUuid": "Действие возврата",
+
+    "com.banalytics.box.module.onvif.task.OnvifRebootAction": "Перезагрузить устройство Onvif",
+    "com.banalytics.box.module.onvif.task.OnvifRebootAction.title": "Перезагрузить устройство Onvif: {0}",
+
+    "com.banalytics.box.module.usecase.OnvifMonitoringCase": "Конфигурация ONVIF камеры",
+    "com.banalytics.box.module.usecase.OnvifMonitoringCase.description": "Configure video surveillance via ONVIF Camera"
+  }
+}

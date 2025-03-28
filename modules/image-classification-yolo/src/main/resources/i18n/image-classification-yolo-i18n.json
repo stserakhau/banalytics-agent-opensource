@@ -1,0 +1,52 @@
+{
+  "en": {
+    "group.image-classifiers": "Image classifiers",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloWorkerThing": "Image classifier",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloWorkerThing.title": "Image classifier ({0})",
+    "workers": "Workers",
+    "subModelName": "Model",
+    "computationConfig": "Computation configuration",
+    "yolo.worker.processedCount": "Processed: {0}",
+    "yolo.worker.totalProcessingTime": "Total processing time: {0} ms",
+    "yolo.worker.waitTime": "Wait time (min / avg / max) ms = {0} / {1} / {2}",
+    "yolo.worker.processingTime": "Processing time (min / avg / max) ms = {0} / {1} / {2}",
+
+    "com.banalytics.box.module.media.task.classification.yolo.YoloDetectionTask": "Media stream object classifier",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloDetectionTask.title": "Media stream object classifier",
+    "detectionDelay": "Classification delay"
+  },
+  "pl" : {
+    "group.image-classifiers": "Klasyfikatory obrazów",
+
+    "com.banalytics.box.module.media.task.classification.yolo.YoloWorkerThing": "Klasyfikator obrazu",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloWorkerThing.title": "Klasyfikator obrazu ({0})",
+    "workers": "Workers",
+    "subModelName": "Model",
+    "detectionDelay": "Opóźnienie klasyfikacji",
+    "yolo.worker.processedCount": "Przetworzone: {0}",
+    "yolo.worker.totalProcessingTime": "Całkowity czas przetwarzania: {0} ms",
+    "yolo.worker.waitTime": "Czas oczekiwania (min / śr / maks) ms = {0} / {1} / {2}",
+    "yolo.worker.processingTime": "Czas przetwarzania (min / śr / maks) ms = {0} / {1} / {2}",
+
+    "com.banalytics.box.module.media.task.classification.yolo.YoloDetectionTask": "Klasyfikator obiektów strumienia multimediów",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloDetectionTask.title": "Klasyfikator obiektów strumienia multimediów",
+    "detectionDelay": "Classification delay"
+  },
+  "ru" : {
+    "group.image-classifiers": "Классификаторы изображений",
+
+    "com.banalytics.box.module.media.task.classification.yolo.YoloWorkerThing": "Классификатор изображений",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloWorkerThing.title": "Классификатор изображений ({0})",
+    "workers": "Workers",
+    "subModelName": "Модель",
+    "computationConfig": "Конфигурация вычислений",
+    "yolo.worker.processedCount": "Обработано: {0}",
+    "yolo.worker.totalProcessingTime": "Общее время обработки: {0} мс",
+    "yolo.worker.waitTime": "Время ожидания (мин./сред./макс.) мс = {0}/{1}/{2}",
+    "yolo.worker.processingTime": "Время обработки (мин./сред./макс.) мс = {0}/{1}/{2}",
+
+    "com.banalytics.box.module.media.task.classification.yolo.YoloDetectionTask": "Классификатор объектов медиапотока",
+    "com.banalytics.box.module.media.task.classification.yolo.YoloDetectionTask.title": "Классификатор объектов медиапотока",
+    "detectionDelay": "Classification delay"
+  }
+}

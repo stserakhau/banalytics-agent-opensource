@@ -1,4 +1,4 @@
-# [What is Banalytics box agent?](https://banalytics.live)
+[What is Banalytics VMS?](https://banalytics.live)
 
 Banalytics is an innovative Video Management Software (VMS) designed for remote monitoring service providers, businesses, and households.
 
@@ -18,4 +18,4 @@ Banalytics is an innovative Video Management Software (VMS) designed for remote 
 [Read more here](https://www.banalytics.live/).
 
 
-# [Video tutorials](https://www.youtube.com/@banalytics-software)
+[Video tutorials](https://www.youtube.com/@banalytics-software)

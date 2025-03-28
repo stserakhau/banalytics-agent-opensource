@@ -1,4 +1,4 @@
-[What is Banalytics VMS?](https://banalytics.live)
+[What is Banalytics VMS?](https://www.linkedin.com/products/banalytics-live-video-surveillance-software/)
 
 Banalytics is an innovative Video Management Software (VMS) designed for remote monitoring service providers, businesses, and households.
 
@@ -19,3 +19,5 @@ Banalytics is an innovative Video Management Software (VMS) designed for remote 
 
 
 [Video tutorials](https://www.youtube.com/@banalytics-software)
+
+[Linkedin](https://www.linkedin.com/company/banalytics-live/)
